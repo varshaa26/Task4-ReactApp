@@ -1,0 +1,82 @@
+{
+  "details":[
+    {
+
+  
+      "card":{
+        "name":"VENKATA VARSHA",
+        "email":"varshaakv22@gmail.com",
+        "mobile":"9988776655",
+        "des":"card data",
+        "address":"Buchireddypalem,Nellore"
+      },
+      "card2":{
+        "name":"karthik",
+        "email":"karthik@gmail.com",
+        "mobile":"9977556655",
+        "des":" 2nd card data",
+        "career":"Settle in Good Position"
+      },
+
+
+  "career":{
+    "info":"To become a Software developer"
+   },
+   "edu":
+
+      {
+        "course":"B.Tech/ECE",
+        "institute":"Balaji Institue Of Engineering And Mangement Studies",
+        "passoutyear":"2020",
+        "percentage":"80%",
+        "course1":"Intermediate",
+        "institute1":"Sri Siddardha Junior College",
+        "passoutyear1":"2016",
+        "percentage1":"94.8%",
+        "course2":"SSC",
+        "institute2":"Z P P Girls High School",
+        "passoutyear2":"2014",
+        "percentage2":"93%"
+      },
+
+     
+
+
+     "techskills":{
+
+        "info1":"Programming Languages :  C (intermediate),Python(intermediate)",
+        "info2":"Frameworks : Django(Beginner)",
+        "info3":"Web Technologies : HTML5,CSS3",
+        "info4":"Packages : Ms-Office",
+        "info5":"Basic knowledge on MATLAB,XILINX ISE"
+        
+      },
+        
+
+   "activities":{
+        
+        "info1":"participated in the MSP430-an Drishti online contest by TI University program",
+        "info2":"Presented papers on “3D TECHNOLOHY” at Audisakara college of engineering and technology",
+        "info3":"Proactively participated and organized all college and school level functions and events"
+    },
+
+
+    "certification":{
+            
+            "info1":"web development using django",
+            "info2":"Aritificial intelligence,chatbots"
+          },
+
+
+   "perstraits":{
+
+            "info1":"patience" ,
+            "info2":"responsible",
+            "info3":"smartkwork",
+            "info4":"Passion towards profession"
+    }
+    
+        
+}
+]
+}

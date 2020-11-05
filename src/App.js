@@ -10,7 +10,7 @@ import Resume from './resume.js';
 function App(){
   return(
     <div>
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
     <Route exact path="/" component={Cards}/>
     <Route exact path="/resume" component={Resume}/>
     </BrowserRouter>
